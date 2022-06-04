@@ -1,0 +1,160 @@
+body{
+    width: 100%;
+    background-color: #ffe4c4;
+    margin: 0 auto;
+
+}
+.menu_principal {
+
+    width: 100%;
+    background-color: #252323;
+    height: 90px;
+    margin: 0 auto;
+}
+.maindaheader {
+    margin: 0 auto;
+    width: 1280px;
+    position: relative;
+}
+
+.logo {
+    float: left;
+    width: 70%;
+
+}
+
+.redes_sociais ul li {
+    display: inline-block;
+    margin-left: 20px;
+    float: left;
+} 
+
+.redes_sociais {
+    margin: 0 auto;
+    float: right;
+    width: 30%;
+    padding-top: 20px;
+
+}
+.header2 {
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #fffafa;
+    border-bottom: 4px solid #c9c9c9d8;
+    height: 50px;
+}
+
+.menu ul li a {
+    margin: 0 auto;
+    color: #313131;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: fantasy;
+}
+.menu ul li {
+    margin: 0 auto;
+    display: inline-block;
+    margin-left: 700px;
+    color: #313131;
+    height: 44px;
+}
+
+.menu ul li:hover{
+    border-bottom: 4px solid #00bac6;
+
+}
+
+.menu ul li a:hover {
+    color: #00bac6;
+
+}
+
+.menu {
+    width: 70%;
+    float: left
+}
+
+.busca input {
+    height: 16px;
+    margin-top: 15px;
+}
+
+.busca {
+
+    width: 30%;
+    float: right
+    
+}
+
+h1 {
+    margin-top: 150px;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+table td {
+    border: 1px solid;
+    text-align: center;
+    height: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+table {
+    left: 23.5%;
+    position: relative;
+    color: #232425;
+    margin-top: 150px;
+    font-size: 20px;
+    border: 1px solid;
+    width: 1000px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-collapse: collapse;
+}
+
+table th {
+    border: 1px solid;
+    height: 100px;
+    background-color: #fffafa;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+table tr:nth-child(even) {
+    background: rgb(189, 80, 80)
+}
+
+
+
+
+
+footer {
+
+    margin: 0 auto;
+    width: 100%;
+    background-color: #252323;
+    height: 90px;
+    margin-bottom: 0 auto;
+}
+footer p {
+    width: 50%;
+    font-size: 15px;
+    padding-left: 150px;
+    padding-bottom: 500px;
+    padding-top: 35px;
+    font-family: fantasy;
+    color: #fffafa;
+    text-align: center;
+    margin-left: 260px;
+}
+footer p a {
+    text-decoration: none;
+    color: aliceblue;
+    text-align: center;
+}
+footer p a:hover {
+    
+    color: rgb(0, 217, 255);
+}
